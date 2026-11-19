@@ -1,2 +1,2 @@
 # s.AI
-Musings
+Musings on AI apps to automate life
